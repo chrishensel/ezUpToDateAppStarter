@@ -1,0 +1,6 @@
+﻿<configuration>
+  <name>Sample</name>
+  <targetDir>Sample</targetDir>
+  <source>$\..\SampleApp\Package\package.zip</source>
+  <pathToExecute>$\SampleApp.exe</pathToExecute>
+</configuration>
