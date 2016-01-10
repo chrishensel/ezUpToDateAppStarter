@@ -1,19 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ezUpToDateAppStarter", "ezUpToDateAppStarter\ezUpToDateAppStarter.csproj", "{147419FB-9F84-460F-90F8-B0EB6450503B}"
 	ProjectSection(ProjectDependencies) = postProject
 		{79EDE023-01DA-434A-B02C-FE4FF69A1CCE} = {79EDE023-01DA-434A-B02C-FE4FF69A1CCE}
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApp", "SampleApp\SampleApp.csproj", "{79EDE023-01DA-434A-B02C-FE4FF69A1CCE}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{1BF0C3ED-D7BD-4E42-8251-ABFF259EC90D}"
-	ProjectSection(SolutionItems) = preProject
-		.nuget\NuGet.Config = .nuget\NuGet.Config
-		.nuget\NuGet.exe = .nuget\NuGet.exe
-		.nuget\NuGet.targets = .nuget\NuGet.targets
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

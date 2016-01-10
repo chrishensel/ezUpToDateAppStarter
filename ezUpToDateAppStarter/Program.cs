@@ -28,7 +28,7 @@ namespace ezUpToDateAppStarter
         static void Main(string[] args)
         {
             WriteInfo("".PadRight(79, '*'));
-            WriteInfo("ezUpToDateAppStarter, Copyright (C) 2014 Sascha-Christian Hensel");
+            WriteInfo("ezUpToDateAppStarter, Copyright (C) 2016 Sascha-Christian Hensel");
             WriteInfo("ezUpToDateAppStarter comes with ABSOLUTELY NO WARRANTY.");
             WriteInfo("This is free software, and you are welcome to redistribute it");
             WriteInfo("under certain conditions; see LICENSE.");
